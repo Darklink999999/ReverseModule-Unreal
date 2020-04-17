@@ -1,2 +1,2 @@
 # ReverseModule
- A mix of Xenoblade and Dark Souls 
+A Zelda-like about Utopia/Dystopia balance.
